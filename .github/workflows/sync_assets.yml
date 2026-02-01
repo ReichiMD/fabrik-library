@@ -1,29 +1,25 @@
-### DATEI: .github/workflows/sync_assets.yml
 name: 🔄 Library Sync & Index
 
 on:
   schedule:
-    - cron: '0 4 * * 1' # Startet jeden Montag um 04:00 Uhr automatisch
-  workflow_dispatch:    # Erlaubt manuellen Start über den "Run workflow" Button
+    - cron: '0 4 * * 1'
+  workflow_dispatch:
 
 permissions:
-  contents: write       # WICHTIG: Erlaubt dem Bot, die neuen Dateien zu speichern
+  contents: write
 
 jobs:
   update-library:
     runs-on: ubuntu-latest
     steps:
-      # 1. Das eigene Library-Repo laden
       - name: 1. Library auschecken
         uses: actions/checkout@v4
 
-      # 2. Die offiziellen Mojang-Daten laden (aber NUR die nötigen Ordner!)
-      - name: 2. Mojang Assets holen (Sparse Checkout)
+      - name: 2. Mojang Assets holen (Sparse Checkout inkl. Animationen)
         uses: actions/checkout@v4
         with:
           repository: Mojang/bedrock-samples
           path: temp_mojang
-          # Hier definieren wir, was wir brauchen (spart Speicher & Zeit)
           sparse-checkout: |
             resource_pack/textures/items
             resource_pack/textures/blocks
@@ -34,48 +30,38 @@ jobs:
             resource_pack/animation_controllers
           sparse-checkout-cone-mode: false
 
-      # 3. Aufräumen & Einsortieren
       - name: 3. Dateien einsortieren
         run: |
           echo "🧹 Bereinige alte Vanilla-Assets..."
-          # Wir löschen den alten Vanilla-Ordner, falls Mojang Dateien entfernt hat
           rm -rf assets/vanilla/*
-          
-          # Ordner-Struktur sicherstellen
           mkdir -p assets/vanilla/textures
           mkdir -p assets/vanilla/models
           mkdir -p assets/vanilla/animations
           
           echo "📦 Kopiere neue Assets..."
-          # Texturen
           cp -r temp_mojang/resource_pack/textures/items assets/vanilla/textures/ 2>/dev/null || :
           cp -r temp_mojang/resource_pack/textures/blocks assets/vanilla/textures/ 2>/dev/null || :
           cp -r temp_mojang/resource_pack/textures/entity assets/vanilla/textures/ 2>/dev/null || :
           cp -r temp_mojang/resource_pack/textures/ui assets/vanilla/textures/ 2>/dev/null || :
-          
-          # Modelle & Animationen
           cp -r temp_mojang/resource_pack/models assets/vanilla/models/ 2>/dev/null || :
+          # NEU: Animationen kopieren
           cp -r temp_mojang/resource_pack/animations assets/vanilla/animations/ 2>/dev/null || :
           cp -r temp_mojang/resource_pack/animation_controllers assets/vanilla/animations/ 2>/dev/null || :
           
-          # Temp-Ordner löschen
           rm -rf temp_mojang
           echo "✅ Kopiervorgang abgeschlossen."
 
-      # 4. Python vorbereiten für den Indexer
       - name: 4. Python Setup
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      # 5. Das Inhaltsverzeichnis neu bauen (Damit die App weiß, was da ist)
       - name: 5. Index neu generieren
         run: python tools/indexer.py
 
-      # 6. Alles zurück in die Repository speichern
       - name: 6. Änderungen speichern
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "📚 Auto-Update: Vanilla Assets & Index"
+          commit_message: "📚 Auto-Update: Vanilla Assets & Animations"
           file_pattern: "assets/vanilla/* library_index.json"
           
