@@ -1,9 +1,19 @@
+### DATEI: .github/workflows/sync_assets.yml
 name: 🔄 Library Sync & Index
 
 on:
+  # 1. Der Zeitplan (Montags 4 Uhr)
   schedule:
     - cron: '0 4 * * 1'
+  
+  # 2. Der manuelle Knopf
   workflow_dispatch:
+
+  # 3. NEU: Der Bewegungsmelder für DEINE Dateien
+  push:
+    paths:
+      - 'assets/custom/**'   # Reagiert, wenn du eigene Bilder hochlädst
+      - 'templates/**'       # Reagiert, wenn du Vorlagen änderst
 
 permissions:
   contents: write
@@ -33,18 +43,19 @@ jobs:
       - name: 3. Dateien einsortieren
         run: |
           echo "🧹 Bereinige alte Vanilla-Assets..."
+          # Wir löschen Vanilla, um sicherzugehen, dass alles sauber ist
           rm -rf assets/vanilla/*
           mkdir -p assets/vanilla/textures
           mkdir -p assets/vanilla/models
           mkdir -p assets/vanilla/animations
           
           echo "📦 Kopiere neue Assets..."
+          # Fehlerunterdrückung (|| :) falls Mojang Ordnerstruktur ändert
           cp -r temp_mojang/resource_pack/textures/items assets/vanilla/textures/ 2>/dev/null || :
           cp -r temp_mojang/resource_pack/textures/blocks assets/vanilla/textures/ 2>/dev/null || :
           cp -r temp_mojang/resource_pack/textures/entity assets/vanilla/textures/ 2>/dev/null || :
           cp -r temp_mojang/resource_pack/textures/ui assets/vanilla/textures/ 2>/dev/null || :
           cp -r temp_mojang/resource_pack/models assets/vanilla/models/ 2>/dev/null || :
-          # NEU: Animationen kopieren
           cp -r temp_mojang/resource_pack/animations assets/vanilla/animations/ 2>/dev/null || :
           cp -r temp_mojang/resource_pack/animation_controllers assets/vanilla/animations/ 2>/dev/null || :
           
@@ -62,6 +73,5 @@ jobs:
       - name: 6. Änderungen speichern
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "📚 Auto-Update: Vanilla Assets & Animations"
+          commit_message: "📚 Update: Library Index & Assets"
           file_pattern: "assets/vanilla/* library_index.json"
-          
