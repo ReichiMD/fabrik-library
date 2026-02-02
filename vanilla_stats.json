@@ -1,0 +1,913 @@
+{
+  "_meta": {
+    "version": "1.0",
+    "desc": "Vanilla Reference Values for Fabrik-OS"
+  },
+  "items": {
+    "wooden_sword": {
+      "damage": 4,
+      "durability": 59,
+      "enchant": 15,
+      "repair": "planks",
+      "type": "tool"
+    },
+    "golden_sword": {
+      "damage": 4,
+      "durability": 32,
+      "enchant": 22,
+      "repair": "gold_ingot",
+      "type": "tool"
+    },
+    "stone_sword": {
+      "damage": 5,
+      "durability": 131,
+      "enchant": 5,
+      "repair": "cobblestone",
+      "type": "tool"
+    },
+    "iron_sword": {
+      "damage": 6,
+      "durability": 250,
+      "enchant": 14,
+      "repair": "iron_ingot",
+      "type": "tool"
+    },
+    "diamond_sword": {
+      "damage": 7,
+      "durability": 1561,
+      "enchant": 10,
+      "repair": "diamond",
+      "type": "tool"
+    },
+    "netherite_sword": {
+      "damage": 8,
+      "durability": 2031,
+      "enchant": 15,
+      "repair": "netherite_ingot",
+      "type": "tool"
+    },
+    "wooden_axe": {
+      "damage": 3,
+      "durability": 59,
+      "enchant": 15,
+      "repair": "planks",
+      "type": "tool"
+    },
+    "golden_axe": {
+      "damage": 3,
+      "durability": 32,
+      "enchant": 22,
+      "repair": "gold_ingot",
+      "type": "tool"
+    },
+    "stone_axe": {
+      "damage": 4,
+      "durability": 131,
+      "enchant": 5,
+      "repair": "cobblestone",
+      "type": "tool"
+    },
+    "iron_axe": {
+      "damage": 5,
+      "durability": 250,
+      "enchant": 14,
+      "repair": "iron_ingot",
+      "type": "tool"
+    },
+    "diamond_axe": {
+      "damage": 6,
+      "durability": 1561,
+      "enchant": 10,
+      "repair": "diamond",
+      "type": "tool"
+    },
+    "netherite_axe": {
+      "damage": 7,
+      "durability": 2031,
+      "enchant": 15,
+      "repair": "netherite_ingot",
+      "type": "tool"
+    },
+    "wooden_pickaxe": {
+      "damage": 2,
+      "durability": 59,
+      "enchant": 15,
+      "repair": "planks",
+      "type": "tool"
+    },
+    "golden_pickaxe": {
+      "damage": 2,
+      "durability": 32,
+      "enchant": 22,
+      "repair": "gold_ingot",
+      "type": "tool"
+    },
+    "stone_pickaxe": {
+      "damage": 3,
+      "durability": 131,
+      "enchant": 5,
+      "repair": " cobblestone",
+      "type": "tool"
+    },
+    "iron_pickaxe": {
+      "damage": 4,
+      "durability": 250,
+      "enchant": 14,
+      "repair": "iron_ingot",
+      "type": "tool"
+    },
+    "diamond_pickaxe": {
+      "damage": 5,
+      "durability": 1561,
+      "enchant": 10,
+      "repair": "diamond",
+      "type": "tool"
+    },
+    "netherite_pickaxe": {
+      "damage": 6,
+      "durability": 2031,
+      "enchant": 15,
+      "repair": "netherite_ingot",
+      "type": "tool"
+    },
+    "wooden_shovel": {
+      "damage": 1,
+      "durability": 59,
+      "enchant": 15,
+      "repair": "planks",
+      "type": "tool"
+    },
+    "golden_shovel": {
+      "damage": 1,
+      "durability": 32,
+      "enchant": 22,
+      "repair": "gold_ingot",
+      "type": "tool"
+    },
+    "stone_shovel": {
+      "damage": 2,
+      "durability": 131,
+      "enchant": 5,
+      "repair": "cobblestone",
+      "type": "tool"
+    },
+    "iron_shovel": {
+      "damage": 3,
+      "durability": 250,
+      "enchant": 14,
+      "repair": "iron_ingot",
+      "type": "tool"
+    },
+    "diamond_shovel": {
+      "damage": 4,
+      "durability": 1561,
+      "enchant": 10,
+      "repair": "diamond",
+      "type": "tool"
+    },
+    "netherite_shovel": {
+      "damage": 5,
+      "durability": 2031,
+      "enchant": 15,
+      "repair": "netherite_ingot",
+      "type": "tool"
+    },
+    "wooden_hoe": {
+      "damage": 0,
+      "durability": 59,
+      "enchant": 15,
+      "repair": "planks",
+      "type": "tool"
+    },
+    "golden_hoe": {
+      "damage": 0,
+      "durability": 32,
+      "enchant": 22,
+      "repair": "gold_ingot",
+      "type": "tool"
+    },
+    "stone_hoe": {
+      "damage": 0,
+      "durability": 131,
+      "enchant": 5,
+      "repair": "cobblestone",
+      "type": "tool"
+    },
+    "iron_hoe": {
+      "damage": 0,
+      "durability": 250,
+      "enchant": 14,
+      "repair": "iron_ingot",
+      "type": "tool"
+    },
+    "diamond_hoe": {
+      "damage": 0,
+      "durability": 1561,
+      "enchant": 10,
+      "repair": "diamond",
+      "type": "tool"
+    },
+    "netherite_hoe": {
+      "damage": 0,
+      "durability": 2031,
+      "enchant": 15,
+      "repair": "netherite_ingot",
+      "type": "tool"
+    },
+    "leather_helmet": {
+      "protection": 1,
+      "durability": 55,
+      "enchant": 15,
+      "repair": "leather",
+      "type": "armor"
+    },
+    "leather_chestplate": {
+      "protection": 3,
+      "durability": 80,
+      "enchant": 15,
+      "repair": "leather",
+      "type": "armor"
+    },
+    "leather_leggings": {
+      "protection": 2,
+      "durability": 75,
+      "enchant": 15,
+      "repair": "leather",
+      "type": "armor"
+    },
+    "leather_boots": {
+      "protection": 1,
+      "durability": 65,
+      "enchant": 15,
+      "repair": "leather",
+      "type": "armor"
+    },
+    "golden_helmet": {
+      "protection": 2,
+      "durability": 77,
+      "enchant": 25,
+      "repair": "gold_ingot",
+      "type": "armor"
+    },
+    "golden_chestplate": {
+      "protection": 5,
+      "durability": 112,
+      "enchant": 25,
+      "repair": "gold_ingot",
+      "type": "armor"
+    },
+    "golden_leggings": {
+      "protection": 3,
+      "durability": 105,
+      "enchant": 25,
+      "repair": "gold_ingot",
+      "type": "armor"
+    },
+    "golden_boots": {
+      "protection": 1,
+      "durability": 91,
+      "enchant": 25,
+      "repair": "gold_ingot",
+      "type": "armor"
+    },
+    "chainmail_helmet": {
+      "protection": 2,
+      "durability": 165,
+      "enchant": 12,
+      "repair": "iron_ingot",
+      "type": "armor"
+    },
+    "chainmail_chestplate": {
+      "protection": 5,
+      "durability": 240,
+      "enchant": 12,
+      "repair": "iron_ingot",
+      "type": "armor"
+    },
+    "chainmail_leggings": {
+      "protection": 4,
+      "durability": 225,
+      "enchant": 12,
+      "repair": "iron_ingot",
+      "type": "armor"
+    },
+    "chainmail_boots": {
+      "protection": 1,
+      "durability": 195,
+      "enchant": 12,
+      "repair": "iron_ingot",
+      "type": "armor"
+    },
+    "iron_helmet": {
+      "protection": 2,
+      "durability": 165,
+      "enchant": 9,
+      "repair": "iron_ingot",
+      "type": "armor"
+    },
+    "iron_chestplate": {
+      "protection": 6,
+      "durability": 240,
+      "enchant": 9,
+      "repair": "iron_ingot",
+      "type": "armor"
+    },
+    "iron_leggings": {
+      "protection": 5,
+      "durability": 225,
+      "enchant": 9,
+      "repair": "iron_ingot",
+      "type": "armor"
+    },
+    "iron_boots": {
+      "protection": 2,
+      "durability": 195,
+      "enchant": 9,
+      "repair": "iron_ingot",
+      "type": "armor"
+    },
+    "diamond_helmet": {
+      "protection": 3,
+      "durability": 363,
+      "enchant": 10,
+      "repair": "diamond",
+      "type": "armor"
+    },
+    "diamond_chestplate": {
+      "protection": 8,
+      "durability": 528,
+      "enchant": 10,
+      "repair": "diamond",
+      "type": "armor"
+    },
+    "diamond_leggings": {
+      "protection": 6,
+      "durability": 495,
+      "enchant": 10,
+      "repair": "diamond",
+      "type": "armor"
+    },
+    "diamond_boots": {
+      "protection": 3,
+      "durability": 429,
+      "enchant": 10,
+      "repair": "diamond",
+      "type": "armor"
+    },
+    "netherite_helmet": {
+      "protection": 3,
+      "durability": 407,
+      "enchant": 15,
+      "repair": "netherite_ingot",
+      "type": "armor"
+    },
+    "netherite_chestplate": {
+      "protection": 8,
+      "durability": 592,
+      "enchant": 15,
+      "repair": "netherite_ingot",
+      "type": "armor"
+    },
+    "netherite_leggings": {
+      "protection": 6,
+      "durability": 555,
+      "enchant": 15,
+      "repair": "netherite_ingot",
+      "type": "armor"
+    },
+    "netherite_boots": {
+      "protection": 3,
+      "durability": 481,
+      "enchant": 15,
+      "repair": "netherite_ingot",
+      "type": "armor"
+    },
+    "turtle_helmet": {
+      "protection": 2,
+      "durability": 275,
+      "enchant": 9,
+      "repair": "scute",
+      "type": "armor"
+    }
+  },
+  "mobs": {
+    "axolotl": {
+      "health": 14,
+      "speed": 0.25,
+      "scale": 1,
+      "family": "axolotl",
+      "height": 0.42
+    },
+    "bat": {
+      "health": 6,
+      "speed": 0.3,
+      "scale": 0.5,
+      "family": "bat",
+      "height": 0.9
+    },
+    "bee": {
+      "health": 10,
+      "speed": 0.3,
+      "scale": 1,
+      "family": "arthropod",
+      "height": 0.6
+    },
+    "blaze": {
+      "health": 20,
+      "speed": 0.23,
+      "scale": 1,
+      "family": "monster",
+      "height": 1.8
+    },
+    "cat": {
+      "health": 10,
+      "speed": 0.3,
+      "scale": 1,
+      "family": "cat",
+      "height": 0.7
+    },
+    "cave_spider": {
+      "health": 12,
+      "speed": 0.3,
+      "scale": 1,
+      "family": "arthropod",
+      "height": 0.5
+    },
+    "chicken": {
+      "health": 4,
+      "speed": 0.25,
+      "scale": 1,
+      "family": "chicken",
+      "height": 0.7
+    },
+    "cod": {
+      "health": 3,
+      "speed": 0.3,
+      "scale": 1,
+      "family": "fish",
+      "height": 0.25
+    },
+    "cow": {
+      "health": 10,
+      "speed": 0.25,
+      "scale": 1,
+      "family": "cow",
+      "height": 1.4
+    },
+    "creeper": {
+      "health": 20,
+      "speed": 0.2,
+      "scale": 1,
+      "family": "monster",
+      "height": 1.7
+    },
+    "dolphin": {
+      "health": 10,
+      "speed": 1.2,
+      "scale": 1,
+      "family": "water",
+      "height": 0.6
+    },
+    "donkey": {
+      "health": 15,
+      "speed": 0.175,
+      "scale": 1,
+      "family": "horse",
+      "height": 1.6
+    },
+    "drowned": {
+      "health": 20,
+      "speed": 0.23,
+      "scale": 1,
+      "family": "undead",
+      "height": 1.95
+    },
+    "elder_guardian": {
+      "health": 80,
+      "speed": 0.3,
+      "scale": 1,
+      "family": "monster",
+      "height": 1.99
+    },
+    "ender_dragon": {
+      "health": 200,
+      "speed": 0.3,
+      "scale": 1,
+      "family": "dragon",
+      "height": 8
+    },
+    "enderman": {
+      "health": 40,
+      "speed": 0.3,
+      "scale": 1,
+      "family": "monster",
+      "height": 2.9
+    },
+    "endermite": {
+      "health": 8,
+      "speed": 0.3,
+      "scale": 1,
+      "family": "arthropod",
+      "height": 0.3
+    },
+    "evoker": {
+      "health": 24,
+      "speed": 0.5,
+      "scale": 1,
+      "family": "illager",
+      "height": 1.95
+    },
+    "fox": {
+      "health": 10,
+      "speed": 0.3,
+      "scale": 1,
+      "family": "fox",
+      "height": 0.6
+    },
+    "frog": {
+      "health": 10,
+      "speed": 0.3,
+      "scale": 1,
+      "family": "frog",
+      "height": 0.5
+    },
+    "ghast": {
+      "health": 10,
+      "speed": 0.3,
+      "scale": 4,
+      "family": "monster",
+      "height": 4
+    },
+    "glow_squid": {
+      "health": 10,
+      "speed": 0.3,
+      "scale": 1,
+      "family": "squid",
+      "height": 0.8
+    },
+    "goat": {
+      "health": 10,
+      "speed": 0.3,
+      "scale": 1,
+      "family": "mammal",
+      "height": 1.3
+    },
+    "guardian": {
+      "health": 30,
+      "speed": 0.3,
+      "scale": 1,
+      "family": "monster",
+      "height": 0.85
+    },
+    "hoglin": {
+      "health": 40,
+      "speed": 0.3,
+      "scale": 1,
+      "family": "monster",
+      "height": 1.4
+    },
+    "horse": {
+      "health": 15,
+      "speed": 0.2,
+      "scale": 1,
+      "family": "horse",
+      "height": 1.6
+    },
+    "husk": {
+      "health": 20,
+      "speed": 0.23,
+      "scale": 1,
+      "family": "undead",
+      "height": 1.95
+    },
+    "iron_golem": {
+      "health": 100,
+      "speed": 0.25,
+      "scale": 1,
+      "family": "golem",
+      "height": 2.7
+    },
+    "llama": {
+      "health": 15,
+      "speed": 0.175,
+      "scale": 1,
+      "family": "llama",
+      "height": 1.87
+    },
+    "magma_cube": {
+      "health": 16,
+      "speed": 0.3,
+      "scale": 1,
+      "family": "monster",
+      "height": 2
+    },
+    "mooshroom": {
+      "health": 10,
+      "speed": 0.25,
+      "scale": 1,
+      "family": "cow",
+      "height": 1.4
+    },
+    "mule": {
+      "health": 15,
+      "speed": 0.175,
+      "scale": 1,
+      "family": "horse",
+      "height": 1.6
+    },
+    "ocelot": {
+      "health": 10,
+      "speed": 0.3,
+      "scale": 1,
+      "family": "cat",
+      "height": 0.7
+    },
+    "panda": {
+      "health": 20,
+      "speed": 0.15,
+      "scale": 1,
+      "family": "panda",
+      "height": 1.25
+    },
+    "parrot": {
+      "health": 6,
+      "speed": 0.4,
+      "scale": 1,
+      "family": "parrot",
+      "height": 0.9
+    },
+    "phantom": {
+      "health": 20,
+      "speed": 1.8,
+      "scale": 1,
+      "family": "undead",
+      "height": 0.5
+    },
+    "pig": {
+      "health": 10,
+      "speed": 0.25,
+      "scale": 1,
+      "family": "pig",
+      "height": 0.9
+    },
+    "piglin": {
+      "health": 16,
+      "speed": 0.35,
+      "scale": 1,
+      "family": "piglin",
+      "height": 1.95
+    },
+    "piglin_brute": {
+      "health": 50,
+      "speed": 0.35,
+      "scale": 1,
+      "family": "piglin",
+      "height": 1.95
+    },
+    "pillager": {
+      "health": 24,
+      "speed": 0.35,
+      "scale": 1,
+      "family": "illager",
+      "height": 1.95
+    },
+    "polar_bear": {
+      "health": 30,
+      "speed": 0.25,
+      "scale": 1,
+      "family": "polar_bear",
+      "height": 1.4
+    },
+    "pufferfish": {
+      "health": 3,
+      "speed": 0.3,
+      "scale": 1,
+      "family": "fish",
+      "height": 0.7
+    },
+    "rabbit": {
+      "health": 3,
+      "speed": 0.3,
+      "scale": 1,
+      "family": "rabbit",
+      "height": 0.5
+    },
+    "ravager": {
+      "health": 100,
+      "speed": 0.4,
+      "scale": 1,
+      "family": "monster",
+      "height": 2.2
+    },
+    "salmon": {
+      "health": 3,
+      "speed": 0.3,
+      "scale": 1,
+      "family": "fish",
+      "height": 0.5
+    },
+    "sheep": {
+      "health": 8,
+      "speed": 0.23,
+      "scale": 1,
+      "family": "sheep",
+      "height": 1.3
+    },
+    "shulker": {
+      "health": 30,
+      "speed": 0,
+      "scale": 1,
+      "family": "golem",
+      "height": 1
+    },
+    "silverfish": {
+      "health": 8,
+      "speed": 0.25,
+      "scale": 1,
+      "family": "arthropod",
+      "height": 0.3
+    },
+    "skeleton": {
+      "health": 20,
+      "speed": 0.25,
+      "scale": 1,
+      "family": "undead",
+      "height": 1.99
+    },
+    "skeleton_horse": {
+      "health": 15,
+      "speed": 0.2,
+      "scale": 1,
+      "family": "undead",
+      "height": 1.6
+    },
+    "slime": {
+      "health": 16,
+      "speed": 0.25,
+      "scale": 1,
+      "family": "monster",
+      "height": 2
+    },
+    "snow_golem": {
+      "health": 4,
+      "speed": 0.2,
+      "scale": 1,
+      "family": "golem",
+      "height": 1.9
+    },
+    "spider": {
+      "health": 16,
+      "speed": 0.3,
+      "scale": 1,
+      "family": "arthropod",
+      "height": 0.9
+    },
+    "squid": {
+      "health": 10,
+      "speed": 0.3,
+      "scale": 1,
+      "family": "squid",
+      "height": 0.8
+    },
+    "stray": {
+      "health": 20,
+      "speed": 0.25,
+      "scale": 1,
+      "family": "undead",
+      "height": 1.99
+    },
+    "strider": {
+      "health": 20,
+      "speed": 0.175,
+      "scale": 1,
+      "family": "strider",
+      "height": 1.7
+    },
+    "tadpole": {
+      "health": 6,
+      "speed": 0.3,
+      "scale": 1,
+      "family": "fish",
+      "height": 0.2
+    },
+    "trader_llama": {
+      "health": 15,
+      "speed": 0.175,
+      "scale": 1,
+      "family": "llama",
+      "height": 1.87
+    },
+    "tropical_fish": {
+      "health": 3,
+      "speed": 0.3,
+      "scale": 1,
+      "family": "fish",
+      "height": 0.4
+    },
+    "turtle": {
+      "health": 30,
+      "speed": 0.25,
+      "scale": 1,
+      "family": "turtle",
+      "height": 0.4
+    },
+    "vex": {
+      "health": 14,
+      "speed": 0.3,
+      "scale": 1,
+      "family": "monster",
+      "height": 0.8
+    },
+    "villager": {
+      "health": 20,
+      "speed": 0.25,
+      "scale": 1,
+      "family": "villager",
+      "height": 1.95
+    },
+    "vindicator": {
+      "health": 24,
+      "speed": 0.35,
+      "scale": 1,
+      "family": "illager",
+      "height": 1.95
+    },
+    "wandering_trader": {
+      "health": 20,
+      "speed": 0.25,
+      "scale": 1,
+      "family": "villager",
+      "height": 1.95
+    },
+    "warden": {
+      "health": 500,
+      "speed": 0.06,
+      "scale": 1,
+      "family": "monster",
+      "height": 2.9
+    },
+    "witch": {
+      "health": 26,
+      "speed": 0.25,
+      "scale": 1,
+      "family": "monster",
+      "height": 1.95
+    },
+    "wither": {
+      "health": 300,
+      "speed": 0.6,
+      "scale": 1,
+      "family": "undead",
+      "height": 3.5
+    },
+    "wither_skeleton": {
+      "health": 20,
+      "speed": 0.25,
+      "scale": 1,
+      "family": "undead",
+      "height": 2.4
+    },
+    "wolf": {
+      "health": 8,
+      "speed": 0.3,
+      "scale": 1,
+      "family": "wolf",
+      "height": 0.85
+    },
+    "zoglin": {
+      "health": 40,
+      "speed": 0.3,
+      "scale": 1,
+      "family": "monster",
+      "height": 1.4
+    },
+    "zombie": {
+      "health": 20,
+      "speed": 0.23,
+      "scale": 1,
+      "family": "undead",
+      "height": 1.95
+    },
+    "zombie_horse": {
+      "health": 15,
+      "speed": 0.2,
+      "scale": 1,
+      "family": "undead",
+      "height": 1.6
+    },
+    "zombie_villager": {
+      "health": 20,
+      "speed": 0.23,
+      "scale": 1,
+      "family": "undead",
+      "height": 1.95
+    },
+    "zombified_piglin": {
+      "health": 20,
+      "speed": 0.23,
+      "scale": 1,
+      "family": "undead",
+      "height": 1.95
+    }
+  }
+}
