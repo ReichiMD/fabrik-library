@@ -1,0 +1,16 @@
+{
+    "name": "fabrik-library",
+    "version": "1.0.0",
+    "description": "Erstellt mit Fabrik-OS",
+    "created_at": "2026-02-02T09:56:54.493Z",
+    "assets": [
+        {
+            "id": "fabriklibrary:diamond_spear",
+            "name": "Diamond spear v2",
+            "type": "weapon",
+            "texture_path": "assets/textures/weapon/diamond_spear.png",
+            "stats": {},
+            "added_at": "2026-02-02T09:56:54.173Z"
+        }
+    ]
+}
