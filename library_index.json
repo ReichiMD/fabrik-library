@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_update": "2026-02-02T07:35:26.047603",
+    "last_update": "2026-02-03T12:47:42.912811",
     "generator": "Fabrik-Indexer V1.0"
   },
   "content": [
@@ -63693,6 +63693,12 @@
       "name": "diamond_nautilus_armor.png",
       "type": "texture",
       "category": "vanilla"
+    },
+    {
+      "path": "assets/textures/weapon/diamond_spear.png",
+      "name": "diamond_spear.png",
+      "type": "texture",
+      "category": "custom"
     }
   ]
 }
