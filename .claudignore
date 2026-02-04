@@ -1,0 +1,16 @@
+# Mojang Samples (Extrem viele Dateien - Token-Schutz)
+bedrock-samples/
+
+# Binäre Mediendateien und Assets (Kein Nutzen für Code-Logik)
+assets/
+**/*.png
+**/*.tga
+**/*.jpg
+**/*.jpeg
+
+# Spezifische Index- und Statistikdateien (Manuelle Pflege)
+vanilla_stats.json
+library_index.json
+
+# Versteckte Systemdateien
+.github/workflows/
