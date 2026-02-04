@@ -1,8 +1,0 @@
-# Notizen
-
-<!--
-{
-  "onlyStructure": true,
-  "ignore": ""
-}
--->
