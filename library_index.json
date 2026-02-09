@@ -1,9 +1,45 @@
 {
   "meta": {
-    "last_update": "2026-02-09T07:41:04.347340",
+    "last_update": "2026-02-09T20:38:56.350120",
     "generator": "Fabrik-Indexer V1.0"
   },
   "content": [
+    {
+      "path": "assets/custom/icons/002.png",
+      "name": "002.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/032.png",
+      "name": "032.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/034.png",
+      "name": "034.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/025.png",
+      "name": "025.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/004.png",
+      "name": "004.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/012.png",
+      "name": "012.png",
+      "type": "texture",
+      "category": "custom"
+    },
     {
       "path": "assets/vanilla/models/models/mobs.json",
       "name": "mobs.json",
