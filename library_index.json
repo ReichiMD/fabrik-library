@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_update": "2026-02-11T18:34:21.768474",
+    "last_update": "2026-02-11T18:53:00.953405",
     "generator": "Fabrik-Indexer V1.0"
   },
   "content": [
@@ -41,9 +41,567 @@
       "category": "custom"
     },
     {
+      "path": "assets/custom/icons/Schwert/070.png",
+      "name": "070.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/016.png",
+      "name": "016.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/017.png",
+      "name": "017.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/018.png",
+      "name": "018.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/002.png",
+      "name": "002.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/066.png",
+      "name": "066.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/032.png",
+      "name": "032.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/056.png",
+      "name": "056.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/074.png",
+      "name": "074.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/088.png",
+      "name": "088.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/054.png",
+      "name": "054.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/019.png",
+      "name": "019.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/094.png",
+      "name": "094.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/007.png",
+      "name": "007.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/046.png",
+      "name": "046.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/006.png",
+      "name": "006.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/083.png",
+      "name": "083.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/031.png",
+      "name": "031.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/063.png",
+      "name": "063.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/027.png",
+      "name": "027.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/014.png",
+      "name": "014.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/060.png",
+      "name": "060.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/043.png",
+      "name": "043.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/101.png",
+      "name": "101.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/084.png",
+      "name": "084.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/050.png",
+      "name": "050.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/023.png",
+      "name": "023.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/058.png",
+      "name": "058.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/010.png",
+      "name": "010.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/005.png",
+      "name": "005.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/087.png",
+      "name": "087.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/021.png",
+      "name": "021.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/013.png",
+      "name": "013.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/072.png",
+      "name": "072.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/082.png",
+      "name": "082.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/078.png",
+      "name": "078.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/062.png",
+      "name": "062.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/029.png",
+      "name": "029.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/089.png",
+      "name": "089.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/048.png",
+      "name": "048.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/001.png",
+      "name": "001.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/065.png",
+      "name": "065.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/008.png",
+      "name": "008.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/020.png",
+      "name": "020.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/076.png",
+      "name": "076.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/091.png",
+      "name": "091.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/053.png",
+      "name": "053.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/034.png",
+      "name": "034.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/035.png",
+      "name": "035.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/067.png",
+      "name": "067.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/030.png",
+      "name": "030.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/025.png",
+      "name": "025.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/103.png",
+      "name": "103.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/095.png",
+      "name": "095.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/003.png",
+      "name": "003.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/051.png",
+      "name": "051.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/068.png",
+      "name": "068.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/041.png",
+      "name": "041.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/011.png",
+      "name": "011.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/049.png",
+      "name": "049.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/077.png",
+      "name": "077.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/085.png",
+      "name": "085.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/057.png",
+      "name": "057.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/047.png",
+      "name": "047.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/022.png",
+      "name": "022.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/080.png",
+      "name": "080.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/004.png",
+      "name": "004.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/059.png",
+      "name": "059.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/093.png",
+      "name": "093.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
       "path": "assets/custom/icons/Schwert/Test.md",
       "name": "Test.md",
       "type": "file",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/079.png",
+      "name": "079.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/042.png",
+      "name": "042.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/075.png",
+      "name": "075.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/081.png",
+      "name": "081.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/102.png",
+      "name": "102.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/090.png",
+      "name": "090.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/086.png",
+      "name": "086.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/024.png",
+      "name": "024.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/028.png",
+      "name": "028.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/045.png",
+      "name": "045.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/069.png",
+      "name": "069.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/015.png",
+      "name": "015.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/071.png",
+      "name": "071.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/064.png",
+      "name": "064.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/055.png",
+      "name": "055.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/073.png",
+      "name": "073.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/061.png",
+      "name": "061.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/052.png",
+      "name": "052.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/026.png",
+      "name": "026.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/009.png",
+      "name": "009.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/092.png",
+      "name": "092.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/033.png",
+      "name": "033.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/044.png",
+      "name": "044.png",
+      "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/012.png",
+      "name": "012.png",
+      "type": "texture",
       "category": "custom"
     },
     {
