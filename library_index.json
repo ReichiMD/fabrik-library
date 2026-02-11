@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_update": "2026-02-09T20:38:56.350120",
+    "last_update": "2026-02-11T18:34:21.768474",
     "generator": "Fabrik-Indexer V1.0"
   },
   "content": [
@@ -38,6 +38,12 @@
       "path": "assets/custom/icons/012.png",
       "name": "012.png",
       "type": "texture",
+      "category": "custom"
+    },
+    {
+      "path": "assets/custom/icons/Schwert/Test.md",
+      "name": "Test.md",
+      "type": "file",
       "category": "custom"
     },
     {
@@ -25175,6 +25181,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/ui/square_image_border_open_left.json",
+      "name": "square_image_border_open_left.json",
+      "type": "json",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/ui/bubble.png",
       "name": "bubble.png",
       "type": "texture",
@@ -25387,6 +25399,12 @@
     {
       "path": "assets/vanilla/textures/ui/like_default.png",
       "name": "like_default.png",
+      "type": "texture",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/ui/effect_background_ambient.png",
+      "name": "effect_background_ambient.png",
       "type": "texture",
       "category": "vanilla"
     },
@@ -25951,6 +25969,12 @@
     {
       "path": "assets/vanilla/textures/ui/ratings_fullstar.png",
       "name": "ratings_fullstar.png",
+      "type": "texture",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/ui/min_12_animated.png",
+      "name": "min_12_animated.png",
       "type": "texture",
       "category": "vanilla"
     },
@@ -26663,6 +26687,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/ui/min_12_animated.json",
+      "name": "min_12_animated.json",
+      "type": "json",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/ui/absorption_heart_half.png",
       "name": "absorption_heart_half.png",
       "type": "texture",
@@ -27097,6 +27127,12 @@
     {
       "path": "assets/vanilla/textures/ui/verticalgradient.png",
       "name": "verticalgradient.png",
+      "type": "texture",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/ui/square_image_border_open_left.png",
+      "name": "square_image_border_open_left.png",
       "type": "texture",
       "category": "vanilla"
     },
@@ -28136,6 +28172,12 @@
       "path": "assets/vanilla/textures/ui/chevron_white_up.png",
       "name": "chevron_white_up.png",
       "type": "texture",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/ui/effect_background_ambient.json",
+      "name": "effect_background_ambient.json",
+      "type": "json",
       "category": "vanilla"
     },
     {
@@ -29702,6 +29744,12 @@
       "path": "assets/vanilla/textures/ui/emptyBar.json",
       "name": "emptyBar.json",
       "type": "json",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/ui/square_image_border_open_right.png",
+      "name": "square_image_border_open_right.png",
+      "type": "texture",
       "category": "vanilla"
     },
     {
@@ -33131,6 +33179,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/ui/gen_animated.png",
+      "name": "gen_animated.png",
+      "type": "texture",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/ui/sale_button_borderless_lighthover.json",
       "name": "sale_button_borderless_lighthover.json",
       "type": "json",
@@ -34793,6 +34847,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/ui/square_image_border_open_right.json",
+      "name": "square_image_border_open_right.json",
+      "type": "json",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/ui/button_purple.png",
       "name": "button_purple.png",
       "type": "texture",
@@ -34879,6 +34939,12 @@
     {
       "path": "assets/vanilla/textures/ui/TabTopFrontRightMostHover.json",
       "name": "TabTopFrontRightMostHover.json",
+      "type": "json",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/ui/gen_animated.json",
+      "name": "gen_animated.json",
       "type": "json",
       "category": "vanilla"
     },
@@ -36697,6 +36763,24 @@
     {
       "path": "assets/vanilla/textures/ui/bubble/onboarding_bubble_arrow_up_left.png",
       "name": "onboarding_bubble_arrow_up_left.png",
+      "type": "texture",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/ui/badges/icon_csb_no_border.png",
+      "name": "icon_csb_no_border.png",
+      "type": "texture",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/ui/badges/tail_right_sale.png",
+      "name": "tail_right_sale.png",
+      "type": "texture",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/ui/badges/tail_left_sale.png",
+      "name": "tail_left_sale.png",
       "type": "texture",
       "category": "vanilla"
     },
@@ -58172,12 +58256,6 @@
       "path": "assets/vanilla/textures/items/bundle_red_open_back_mers.tga",
       "name": "bundle_red_open_back_mers.tga",
       "type": "file",
-      "category": "vanilla"
-    },
-    {
-      "path": "assets/vanilla/textures/items/copper_golem.texture_set.json",
-      "name": "copper_golem.texture_set.json",
-      "type": "json",
       "category": "vanilla"
     },
     {
