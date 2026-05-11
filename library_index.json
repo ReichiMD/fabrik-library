@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_update": "2026-05-04T06:46:47.415128",
+    "last_update": "2026-05-11T07:50:29.133743",
     "generator": "Fabrik-Indexer V1.0"
   },
   "content": [
@@ -953,6 +953,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/animations/animation_controllers/turtle.animations_controllers.json",
+      "name": "turtle.animations_controllers.json",
+      "type": "animation",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/animations/animation_controllers/evoker.animation_controllers.json",
       "name": "evoker.animation_controllers.json",
       "type": "animation",
@@ -1789,6 +1795,12 @@
     {
       "path": "assets/vanilla/animations/animations/ender_dragon.animation.json",
       "name": "ender_dragon.animation.json",
+      "type": "animation",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/animations/animations/turtle.animations.json",
+      "name": "turtle.animations.json",
       "type": "animation",
       "category": "vanilla"
     },
@@ -4043,6 +4055,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/ui/share_glyph_apple.png",
+      "name": "share_glyph_apple.png",
+      "type": "texture",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/ui/poison_heart_half.png",
       "name": "poison_heart_half.png",
       "type": "texture",
@@ -5285,6 +5303,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/ui/share_glyph_google.png",
+      "name": "share_glyph_google.png",
+      "type": "texture",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/ui/white_background.png",
       "name": "white_background.png",
       "type": "texture",
@@ -6169,6 +6193,12 @@
     {
       "path": "assets/vanilla/textures/ui/first_of_two.png",
       "name": "first_of_two.png",
+      "type": "texture",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/ui/glyph_rating.png",
+      "name": "glyph_rating.png",
       "type": "texture",
       "category": "vanilla"
     },
@@ -9914,6 +9944,12 @@
       "path": "assets/vanilla/textures/ui/TabRightBack.json",
       "name": "TabRightBack.json",
       "type": "json",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/ui/share_glyph_generic.png",
+      "name": "share_glyph_generic.png",
+      "type": "texture",
       "category": "vanilla"
     },
     {
@@ -17699,9 +17735,39 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/entity/nautilus/armor/nautilus_armor_copper.texture_set.json",
+      "name": "nautilus_armor_copper.texture_set.json",
+      "type": "json",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/entity/nautilus/armor/nautilus_armor_netherite_mers.tga",
+      "name": "nautilus_armor_netherite_mers.tga",
+      "type": "file",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/entity/nautilus/armor/nautilus_armor_diamond.texture_set.json",
+      "name": "nautilus_armor_diamond.texture_set.json",
+      "type": "json",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/entity/nautilus/armor/nautilus_armor_gold.texture_set.json",
+      "name": "nautilus_armor_gold.texture_set.json",
+      "type": "json",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/entity/nautilus/armor/nautilus_armor_copper.png",
       "name": "nautilus_armor_copper.png",
       "type": "texture",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/entity/nautilus/armor/nautilus_armor_iron.texture_set.json",
+      "name": "nautilus_armor_iron.texture_set.json",
+      "type": "json",
       "category": "vanilla"
     },
     {
@@ -17711,15 +17777,45 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/entity/nautilus/armor/nautilus_armor_copper_mers.tga",
+      "name": "nautilus_armor_copper_mers.tga",
+      "type": "file",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/entity/nautilus/armor/nautilus_armor_netherite.png",
       "name": "nautilus_armor_netherite.png",
       "type": "texture",
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/entity/nautilus/armor/nautilus_armor_gold_mers.tga",
+      "name": "nautilus_armor_gold_mers.tga",
+      "type": "file",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/entity/nautilus/armor/nautilus_armor_iron_mers.tga",
+      "name": "nautilus_armor_iron_mers.tga",
+      "type": "file",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/entity/nautilus/armor/nautilus_armor_gold.png",
       "name": "nautilus_armor_gold.png",
       "type": "texture",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/entity/nautilus/armor/nautilus_armor_diamond_mers.tga",
+      "name": "nautilus_armor_diamond_mers.tga",
+      "type": "file",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/entity/nautilus/armor/nautilus_armor_netherite.texture_set.json",
+      "name": "nautilus_armor_netherite.texture_set.json",
+      "type": "json",
       "category": "vanilla"
     },
     {
@@ -20647,6 +20743,18 @@
     {
       "path": "assets/vanilla/textures/entity/happy_ghast/happy_ghast.texture_set.json",
       "name": "happy_ghast.texture_set.json",
+      "type": "json",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/entity/happy_ghast/happy_ghast_ropes_mers.tga",
+      "name": "happy_ghast_ropes_mers.tga",
+      "type": "file",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/entity/happy_ghast/happy_ghast_ropes.texture_set.json",
+      "name": "happy_ghast_ropes.texture_set.json",
       "type": "json",
       "category": "vanilla"
     },
@@ -32555,6 +32663,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/items/music_disc_tears_mers.tga",
+      "name": "music_disc_tears_mers.tga",
+      "type": "file",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/items/potion_bottle_turtleMaster.texture_set.json",
       "name": "potion_bottle_turtleMaster.texture_set.json",
       "type": "json",
@@ -32582,6 +32696,12 @@
       "path": "assets/vanilla/textures/items/globe_banner_pattern.png",
       "name": "globe_banner_pattern.png",
       "type": "texture",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/items/music_disc_lava_chicken.texture_set.json",
+      "name": "music_disc_lava_chicken.texture_set.json",
+      "type": "json",
       "category": "vanilla"
     },
     {
@@ -33697,6 +33817,12 @@
     {
       "path": "assets/vanilla/textures/items/host_armor_trim_smithing_template_mers.tga",
       "name": "host_armor_trim_smithing_template_mers.tga",
+      "type": "file",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/items/music_disc_lava_chicken_mers.tga",
+      "name": "music_disc_lava_chicken_mers.tga",
       "type": "file",
       "category": "vanilla"
     },
@@ -40265,6 +40391,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/items/music_disc_tears.texture_set.json",
+      "name": "music_disc_tears.texture_set.json",
+      "type": "json",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/items/mace.png",
       "name": "mace.png",
       "type": "texture",
@@ -43823,6 +43955,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/blocks/oak_shelf.texture_set.json",
+      "name": "oak_shelf.texture_set.json",
+      "type": "json",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/blocks/blackstone_top.png",
       "name": "blackstone_top.png",
       "type": "texture",
@@ -44021,6 +44159,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/blocks/spruce_shelf.texture_set.json",
+      "name": "spruce_shelf.texture_set.json",
+      "type": "json",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/blocks/azalea_leaves_flowers.png",
       "name": "azalea_leaves_flowers.png",
       "type": "texture",
@@ -44051,8 +44195,20 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/blocks/jungle_shelf.texture_set.json",
+      "name": "jungle_shelf.texture_set.json",
+      "type": "json",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/blocks/purpur_pillar.texture_set.json",
       "name": "purpur_pillar.texture_set.json",
+      "type": "json",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/blocks/pale_oak_shelf.texture_set.json",
+      "name": "pale_oak_shelf.texture_set.json",
       "type": "json",
       "category": "vanilla"
     },
@@ -45944,6 +46100,12 @@
       "path": "assets/vanilla/textures/blocks/dried_ghast_state_4_top.png",
       "name": "dried_ghast_state_4_top.png",
       "type": "texture",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/blocks/crimson_shelf_mers.tga",
+      "name": "crimson_shelf_mers.tga",
+      "type": "file",
       "category": "vanilla"
     },
     {
@@ -48437,6 +48599,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/blocks/dark_oak_shelf_mers.tga",
+      "name": "dark_oak_shelf_mers.tga",
+      "type": "file",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/blocks/sniffer_egg_not_cracked_top.texture_set.json",
       "name": "sniffer_egg_not_cracked_top.texture_set.json",
       "type": "json",
@@ -48965,8 +49133,20 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/blocks/cherry_shelf_mers.tga",
+      "name": "cherry_shelf_mers.tga",
+      "type": "file",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/blocks/calibrated_sculk_sensor_input_side_mers.tga",
       "name": "calibrated_sculk_sensor_input_side_mers.tga",
+      "type": "file",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/blocks/bamboo_shelf_mers.tga",
+      "name": "bamboo_shelf_mers.tga",
       "type": "file",
       "category": "vanilla"
     },
@@ -49609,6 +49789,12 @@
     {
       "path": "assets/vanilla/textures/blocks/suspicious_gravel_3.texture_set.json",
       "name": "suspicious_gravel_3.texture_set.json",
+      "type": "json",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/blocks/warped_shelf.texture_set.json",
+      "name": "warped_shelf.texture_set.json",
       "type": "json",
       "category": "vanilla"
     },
@@ -52667,6 +52853,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/blocks/jungle_shelf_mers.tga",
+      "name": "jungle_shelf_mers.tga",
+      "type": "file",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/blocks/weeping_vines_bottom.png",
       "name": "weeping_vines_bottom.png",
       "type": "texture",
@@ -55589,6 +55781,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/blocks/cherry_shelf.texture_set.json",
+      "name": "cherry_shelf.texture_set.json",
+      "type": "json",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/blocks/chain_command_block_back.png",
       "name": "chain_command_block_back.png",
       "type": "texture",
@@ -56030,6 +56228,12 @@
       "path": "assets/vanilla/textures/blocks/jukebox_side.texture_set.json",
       "name": "jukebox_side.texture_set.json",
       "type": "json",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/blocks/spruce_shelf_mers.tga",
+      "name": "spruce_shelf_mers.tga",
+      "type": "file",
       "category": "vanilla"
     },
     {
@@ -57767,6 +57971,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/blocks/warped_shelf_mers.tga",
+      "name": "warped_shelf_mers.tga",
+      "type": "file",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/blocks/creaking_heart_side_inactive_mers.tga",
       "name": "creaking_heart_side_inactive_mers.tga",
       "type": "file",
@@ -58253,6 +58463,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/blocks/mangrove_shelf.texture_set.json",
+      "name": "mangrove_shelf.texture_set.json",
+      "type": "json",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/blocks/wool_colored_magenta_mers.tga",
       "name": "wool_colored_magenta_mers.tga",
       "type": "file",
@@ -58709,6 +58925,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/blocks/mangrove_shelf_mers.tga",
+      "name": "mangrove_shelf_mers.tga",
+      "type": "file",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/blocks/coral_blue.png",
       "name": "coral_blue.png",
       "type": "texture",
@@ -59041,6 +59263,12 @@
     {
       "path": "assets/vanilla/textures/blocks/sculk.texture_set.json",
       "name": "sculk.texture_set.json",
+      "type": "json",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/blocks/crimson_shelf.texture_set.json",
+      "name": "crimson_shelf.texture_set.json",
       "type": "json",
       "category": "vanilla"
     },
@@ -59912,6 +60140,12 @@
       "path": "assets/vanilla/textures/blocks/glass_blue.texture_set.json",
       "name": "glass_blue.texture_set.json",
       "type": "json",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/blocks/oak_shelf_mers.tga",
+      "name": "oak_shelf_mers.tga",
+      "type": "file",
       "category": "vanilla"
     },
     {
@@ -62003,6 +62237,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/blocks/dark_oak_shelf.texture_set.json",
+      "name": "dark_oak_shelf.texture_set.json",
+      "type": "json",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/blocks/warped_fungus.png",
       "name": "warped_fungus.png",
       "type": "texture",
@@ -62285,6 +62525,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/blocks/acacia_shelf.texture_set.json",
+      "name": "acacia_shelf.texture_set.json",
+      "type": "json",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/blocks/waterlily.png",
       "name": "waterlily.png",
       "type": "texture",
@@ -62335,6 +62581,12 @@
     {
       "path": "assets/vanilla/textures/blocks/glass_light_blue_mers.tga",
       "name": "glass_light_blue_mers.tga",
+      "type": "file",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/blocks/pale_oak_shelf_mers.tga",
+      "name": "pale_oak_shelf_mers.tga",
       "type": "file",
       "category": "vanilla"
     },
@@ -62672,6 +62924,12 @@
       "path": "assets/vanilla/textures/blocks/glazed_terracotta_magenta_mers.tga",
       "name": "glazed_terracotta_magenta_mers.tga",
       "type": "file",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/blocks/bamboo_shelf.texture_set.json",
+      "name": "bamboo_shelf.texture_set.json",
+      "type": "json",
       "category": "vanilla"
     },
     {
@@ -63983,6 +64241,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/blocks/birch_shelf_mers.tga",
+      "name": "birch_shelf_mers.tga",
+      "type": "file",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/blocks/suspicious_gravel_1.png",
       "name": "suspicious_gravel_1.png",
       "type": "texture",
@@ -64208,6 +64472,12 @@
       "path": "assets/vanilla/textures/blocks/seagrass_mers.tga",
       "name": "seagrass_mers.tga",
       "type": "file",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/blocks/birch_shelf.texture_set.json",
+      "name": "birch_shelf.texture_set.json",
+      "type": "json",
       "category": "vanilla"
     },
     {
@@ -64934,6 +65204,12 @@
       "path": "assets/vanilla/textures/blocks/oxidized_copper_trapdoor.png",
       "name": "oxidized_copper_trapdoor.png",
       "type": "texture",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/blocks/acacia_shelf_mers.tga",
+      "name": "acacia_shelf_mers.tga",
+      "type": "file",
       "category": "vanilla"
     },
     {
