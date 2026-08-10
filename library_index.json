@@ -1,6 +1,6 @@
 {
   "meta": {
-    "last_update": "2026-08-03T07:35:56.634949",
+    "last_update": "2026-08-10T05:38:54.928306",
     "generator": "Fabrik-Indexer V1.0"
   },
   "content": [
@@ -3079,6 +3079,12 @@
     {
       "path": "assets/vanilla/textures/entity/wolf/wolf_rusty_tame.tga",
       "name": "wolf_rusty_tame.tga",
+      "type": "file",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/entity/wolf/wolf_collar_baby_mers.tga",
+      "name": "wolf_collar_baby_mers.tga",
       "type": "file",
       "category": "vanilla"
     },
@@ -19751,6 +19757,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/ui/gift.png",
+      "name": "gift.png",
+      "type": "texture",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/ui/switch_right_trigger.png",
       "name": "switch_right_trigger.png",
       "type": "texture",
@@ -22247,6 +22259,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/ui/invite.png",
+      "name": "invite.png",
+      "type": "texture",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/ui/WarningGlyph.png",
       "name": "WarningGlyph.png",
       "type": "texture",
@@ -22621,6 +22639,12 @@
     {
       "path": "assets/vanilla/textures/ui/pyramid_level_2.png",
       "name": "pyramid_level_2.png",
+      "type": "texture",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/ui/checkmark_white.png",
+      "name": "checkmark_white.png",
       "type": "texture",
       "category": "vanilla"
     },
@@ -23731,6 +23755,12 @@
     {
       "path": "assets/vanilla/textures/ui/experiencebarempty.png",
       "name": "experiencebarempty.png",
+      "type": "texture",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/ui/icon_mail.png",
+      "name": "icon_mail.png",
       "type": "texture",
       "category": "vanilla"
     },
@@ -30569,6 +30599,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/blocks/sulfur_spike_down_tip_merge.texture_set.json",
+      "name": "sulfur_spike_down_tip_merge.texture_set.json",
+      "type": "json",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/blocks/red_sand.texture_set.json",
       "name": "red_sand.texture_set.json",
       "type": "json",
@@ -32294,6 +32330,12 @@
       "path": "assets/vanilla/textures/blocks/weathered_copper_door_bottom_mers.tga",
       "name": "weathered_copper_door_bottom_mers.tga",
       "type": "file",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/blocks/sulfur_spike_down_tip.texture_set.json",
+      "name": "sulfur_spike_down_tip.texture_set.json",
+      "type": "json",
       "category": "vanilla"
     },
     {
@@ -35192,6 +35234,12 @@
       "path": "assets/vanilla/textures/blocks/stone_andesite_smooth.png",
       "name": "stone_andesite_smooth.png",
       "type": "texture",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/blocks/sulfur_spike_up_frustum.texture_set.json",
+      "name": "sulfur_spike_up_frustum.texture_set.json",
+      "type": "json",
       "category": "vanilla"
     },
     {
@@ -38165,6 +38213,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/blocks/sulfur_spike_up_tip_merge.texture_set.json",
+      "name": "sulfur_spike_up_tip_merge.texture_set.json",
+      "type": "json",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/blocks/barrel_top_open_mers.tga",
       "name": "barrel_top_open_mers.tga",
       "type": "file",
@@ -39113,6 +39167,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/blocks/sulfur_spike_down_middle.texture_set.json",
+      "name": "sulfur_spike_down_middle.texture_set.json",
+      "type": "json",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/blocks/dried_ghast_state_1_left_mers.tga",
       "name": "dried_ghast_state_1_left_mers.tga",
       "type": "file",
@@ -39134,6 +39194,12 @@
       "path": "assets/vanilla/textures/blocks/weeping_vines_plant.png",
       "name": "weeping_vines_plant.png",
       "type": "texture",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/blocks/sulfur_spike_down_base.texture_set.json",
+      "name": "sulfur_spike_down_base.texture_set.json",
+      "type": "json",
       "category": "vanilla"
     },
     {
@@ -41411,6 +41477,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/blocks/sulfur_spike_up_middle.texture_set.json",
+      "name": "sulfur_spike_up_middle.texture_set.json",
+      "type": "json",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/blocks/pointed_dripstone_up_base.texture_set.json",
       "name": "pointed_dripstone_up_base.texture_set.json",
       "type": "json",
@@ -43481,6 +43553,12 @@
       "category": "vanilla"
     },
     {
+      "path": "assets/vanilla/textures/blocks/sulfur_spike_down_frustum.texture_set.json",
+      "name": "sulfur_spike_down_frustum.texture_set.json",
+      "type": "json",
+      "category": "vanilla"
+    },
+    {
       "path": "assets/vanilla/textures/blocks/sandstone_bottom_mers.tga",
       "name": "sandstone_bottom_mers.tga",
       "type": "file",
@@ -43945,6 +44023,12 @@
     {
       "path": "assets/vanilla/textures/blocks/sniffer_egg_very_cracked_west.texture_set.json",
       "name": "sniffer_egg_very_cracked_west.texture_set.json",
+      "type": "json",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/blocks/sulfur_spike_up_tip.texture_set.json",
+      "name": "sulfur_spike_up_tip.texture_set.json",
       "type": "json",
       "category": "vanilla"
     },
@@ -47150,6 +47234,12 @@
       "path": "assets/vanilla/textures/blocks/dropper_front_horizontal_mers.tga",
       "name": "dropper_front_horizontal_mers.tga",
       "type": "file",
+      "category": "vanilla"
+    },
+    {
+      "path": "assets/vanilla/textures/blocks/sulfur_spike_up_base.texture_set.json",
+      "name": "sulfur_spike_up_base.texture_set.json",
+      "type": "json",
       "category": "vanilla"
     },
     {
